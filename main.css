@@ -1,0 +1,23 @@
+a:link {
+    color: rgb(102, 255, 145);;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(102, 255, 145);;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(102, 255, 145);;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: rgb(102, 255, 145);;
+    background-color: transparent;
+    text-decoration: underline;
+}
+h1 {
+  font-family: "Kodchasan";
+}
